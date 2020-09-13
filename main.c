@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-int main(void) {
-  printf("Hello World\n");
+int main(int argc, char const *argv[])
+{
+  /* code */
+  printf("Hello World!\n");
+  printf("My name is McLean\n");
   return 0;
 }
